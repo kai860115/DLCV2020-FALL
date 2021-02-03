@@ -1,0 +1,7 @@
+hw2_data/
+hw3_data/
+hw4_data/
+__pycache__/
+
+*.pth
+*.csv
