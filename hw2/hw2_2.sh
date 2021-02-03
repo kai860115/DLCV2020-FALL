@@ -1,0 +1,2 @@
+wget https://www.dropbox.com/s/a1js5z5ne9xc2tl/hw2_2_baseline.pkl?dl=1 -O hw2_2_baseline.pkl
+python3 semantic_segmentation/test.py --img_dir $1 --save_dir $2 --ckp_path hw2_2_baseline.pkl --model_type FCN32s
